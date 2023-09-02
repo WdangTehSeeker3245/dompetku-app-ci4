@@ -1,0 +1,653 @@
+INFO - 2023-08-21 01:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 01:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-21 01:46:57 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/AdminController.php on line 23.
+ 1 APPPATH/Controllers/AdminController.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AdminController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 03:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 02:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-21 03:53:06 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH/Controllers/AdminController.php on line 22.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 03:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 03:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 04:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:07 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:08 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:08 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:08 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:09 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:14 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 05:57:15 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/dashboard', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 05:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 06:01:49 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/balance', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 06:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-21 06:01:51 --> [DEPRECATED] str_ireplace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH/Honeypot/Honeypot.php on line 87.
+ 1 SYSTEMPATH/Honeypot/Honeypot.php(87): str_ireplace('</form>', '<div style="display:none"><label>Fill This Field</label><input type="text" name="honeypot" value=""></div></form>', null)
+ 2 SYSTEMPATH/Filters/Honeypot.php(51): CodeIgniter\Honeypot\Honeypot->attachHoneypot(Object(CodeIgniter\HTTP\RedirectResponse))
+ 3 SYSTEMPATH/Filters/Filters.php(196): CodeIgniter\Filters\Honeypot->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\RedirectResponse), null)
+ 4 SYSTEMPATH/CodeIgniter.php(519): CodeIgniter\Filters\Filters->run('admin/balance', 'after')
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/izaus/IzausLab/Project/dompetku/backend-ci4-dompetku/public/index.php')
+INFO - 2023-08-21 06:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 06:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-21 23:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
